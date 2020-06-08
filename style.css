@@ -274,17 +274,7 @@ a:hover{
 @media only screen and (max-width: 1136px) {
    .name{
     font-size: 2rem;
-
-
-
-
-/* Hide table headers (but not display: none;, for accessibility) */
-
-
-
-
-
-}
+    }
 
 @media screen and (max-width: 1000px) {
   .sidenav {
